@@ -1,3 +1,3 @@
 # UnixShell
-CS 351
+CS351
 Nicholas Aoki
